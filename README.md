@@ -1,1 +1,1 @@
-<h1>**Personal Blog**</h1>
+<h1>Personal Blog</h1>
